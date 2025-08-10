@@ -1,6 +1,5 @@
 package Ejercicios_Laboratorios;
 
-
 /*
  * Ejercicio laboratorio del 5 de Agosto:
  * Este programa solicita al usuario que ingrese el tamaño de un arreglo, 

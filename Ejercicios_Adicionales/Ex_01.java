@@ -6,8 +6,8 @@
 public class Ex_01 {
     public static void main(String[] args) {
         
-        // Definimos el arreglo con algunos números repetidos
-        int[] numeros = { 3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5 };
+        // Definimos el arreglo con algunos números repetidos (lo pueden cambiar y probar)
+        int[] numeros = { 3, 1, 4, 1, 5, 5, 2, 6, 5, 3, 5 };
 
         // Variable para saber si encontramos duplicados en el arreglo
         boolean encontreDuplicados = false;
