@@ -1,7 +1,7 @@
 # 📚 Repositorio del curso – Laboratorios y práctica
 
 Bienvenidos a este repositorio, aquí encontrarán el material y actividades de apoyo.  
-Pueden usar la pestaña **Discussions** para hacer preguntas y compartir soluciones.
+Pueden usar la pestaña **Debates** para hacer preguntas y compartir soluciones.
 
 ## 🚀 Cómo trabajar con este repositorio
 
