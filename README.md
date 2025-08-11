@@ -23,8 +23,9 @@ Así puedes trabajar libremente y luego enviarnos tus cambios para revisión.
 - Abre tu terminal o Git Bash y escribe:
 ```bash
 git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git
-(Reemplaza TU-USUARIO por tu nombre de usuario de GitHub)
 ```
+(Reemplaza TU-USUARIO por tu nombre de usuario de GitHub)
+
 3️⃣ **Trabaja en los ejercicios**
 
 Abre la carpeta del repositorio en tu editor .
@@ -33,8 +34,6 @@ Crea o edita los archivos necesarios.
 
 4️⃣ **Sube tus cambios a tu fork**
 ```bash
-Copy
-Edit
 git add .
 git commit -m "Solución ejercicio X"
 git push
