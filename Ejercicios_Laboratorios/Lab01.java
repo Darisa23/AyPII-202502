@@ -54,5 +54,6 @@ public class Lab01{
             // Si la posición no está en el rango, mostramos un mensaje de error
             System.out.println("La posición " + x + " no existe en el arreglo.");
         }
+        
     }
 }
