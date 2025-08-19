@@ -4,6 +4,7 @@ void setup(){
 // INIT PHASE: Se ejecuta una vez
   // Configuración de memoria, recursos, estado inicial
   size(700,700);
+  img=loadImage("nombreImagen.extención");
   x = width/2;
   y = height/2;
 }
