@@ -1,0 +1,21 @@
+void parallaxe(PImage img, PVector pos, float vit) {
+  pos.sub(vit, 0, 0); 
+
+  if(pos.x < width-img.width) {
+    image(img, pos.x+img.width, pos.y);
+  }
+
+  if(pos.x > 0) {
+    image(img, pos.x-img.width, pos.y);
+  }
+
+  if(pos.x < -img.width) {
+    pos.x = width;
+  }
+
+  if (pos.x > width) {
+    pos.x = width-img.width;
+  }
+
+  image(img, pos.x, pos.y);
+}
